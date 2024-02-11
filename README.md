@@ -2,6 +2,7 @@
 
 Hello there! I am me, and I hail from my mother! 🌟
 
-- 👋 Hi, I’m @wldeu
+- 👋 Hi, I’m Woldu (@wldeu)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and Linux
+- 🌱 I’m currently learning Fronend and Linux
+
